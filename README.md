@@ -1,8 +1,8 @@
 # Github-pertfolio
 
-# Hi there, I'm [kaleab Girma] 👋
+# Hi there, I'm kaleab Girma👋
 
-I'm a ** Full-Stack Developer** based in Ethiopia. Passionate about building [what you love building, e.g., scalable web apps, AI tools, open-source projects].
+I'm a Full-Stack Developer based in Ethiopia. Passionate about building [what you love building, e.g., scalable web apps, AI tools, open-source projects].
 
 --
 
@@ -10,13 +10,13 @@ I'm a ** Full-Stack Developer** based in Ethiopia. Passionate about building [wh
 
 ### 💻 Tech Stack & Tools
 
-**Languages:**  
+Languages:
 `JavaScript` `TypeScript` `Python` `Go` `HTML/CSS`
 
-**Frameworks & Libraries:**  
+Frameworks & Libraries:
 `React` `Next.js` `Node.js` `Express` `Tailwind CSS`
 
-**Databases & Cloud:**  
+Databases & Cloud:**  
 `PostgreSQL` `MongoDB` `Redis` `AWS` `Docker`
 
 ---
