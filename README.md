@@ -1,6 +1,6 @@
 # Github-pertfolio
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [kaleab Girma] 👋
 
 I'm a **[Your Role, e.g., Full-Stack Developer / Data Scientist / Mobile Engineer]** based in [Your Location]. Passionate about building [what you love building, e.g., scalable web apps, AI tools, open-source projects].
 
@@ -10,7 +10,7 @@ I'm a **[Your Role, e.g., Full-Stack Developer / Data Scientist / Mobile Enginee
 - 🔭 Currently building: **[Project Name]** – [One sentence description]
 - 🌱 Learning: **[Technologies/Skills you're picking up]**
 - 💬 Ask me about: **[Your core tech stack, e.g., React, Python, PostgreSQL]**
-- 📫 Reach me at: **[email@example.com]** | **[LinkedIn Profile URL]**
+- 📫 Reach me at: **[kaleabgirma232323@gmail.com]** | **[LinkedIn Profile URL]**
 
 ---
 
