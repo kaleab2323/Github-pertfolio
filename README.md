@@ -1,7 +1,10 @@
 # Github-pertfolio
-# Hi there, I'm [Kaleab Girma] 👋
 
-I'm a **[Full-Stack Developer ]** based in [Ethiopia]. Passionate about building [web development]
+# Hi there, I'm [Your Name] 👋
+
+I'm a **[Your Role, e.g., Full-Stack Developer / Data Scientist / Mobile Engineer]** based in [Your Location]. Passionate about building [what you love building, e.g., scalable web apps, AI tools, open-source projects].
+
+---
 
 ### 🚀 What I'm Working On
 - 🔭 Currently building: **[Project Name]** – [One sentence description]
@@ -13,8 +16,8 @@ I'm a **[Full-Stack Developer ]** based in [Ethiopia]. Passionate about building
 
 ### 💻 Tech Stack & Tools
 
-**Languages:** 
-`Python` `Go` `HTML/CSS`
+**Languages:**  
+`JavaScript` `TypeScript` `Python` `Go` `HTML/CSS`
 
 **Frameworks & Libraries:**  
 `React` `Next.js` `Node.js` `Express` `Tailwind CSS`
