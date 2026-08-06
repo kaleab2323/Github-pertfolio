@@ -2,15 +2,9 @@
 
 # Hi there, I'm [kaleab Girma] 👋
 
-I'm a **[Your Role, e.g., Full-Stack Developer / Data Scientist / Mobile Engineer]** based in [Your Location]. Passionate about building [what you love building, e.g., scalable web apps, AI tools, open-source projects].
+I'm a ** Full-Stack Developer** based in Ethiopia. Passionate about building [what you love building, e.g., scalable web apps, AI tools, open-source projects].
 
----
-
-### 🚀 What I'm Working On
-- 🔭 Currently building: **[Project Name]** – [One sentence description]
-- 🌱 Learning: **[Technologies/Skills you're picking up]**
-- 💬 Ask me about: **[Your core tech stack, e.g., React, Python, PostgreSQL]**
-- 📫 Reach me at: **[kaleabgirma232323@gmail.com]** | **[LinkedIn Profile URL]**
+--
 
 ---
 
